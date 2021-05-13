@@ -1,4 +1,6 @@
 ### Hi there 👋
+[My learning journey](https://simon-truong.github.io/)
+
 
 <!--
 **Simon-Truong/Simon-Truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
