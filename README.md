@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My learning journey](https://simon-truong.github.io/)
+[My blog](https://simon-truong.github.io/)
 
 
 <!--
