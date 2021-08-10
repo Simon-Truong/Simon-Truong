@@ -1,5 +1,6 @@
 ### Hi there 👋
 [My blog](https://simon-truong.github.io/)
+[Blogger](https://simontruong.blogspot.com/)
 
 
 <!--
