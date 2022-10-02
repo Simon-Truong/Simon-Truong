@@ -1,9 +1,6 @@
 ### Hi there 👋
 [My blog](https://simon-truong.github.io/)
 
-[Blogger](https://simontruong.blogspot.com/)
-
-
 <!--
 **Simon-Truong/Simon-Truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
